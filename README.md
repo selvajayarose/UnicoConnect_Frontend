@@ -20,3 +20,7 @@ phone, website.
 * `npm install` to install dependencies.
 
 * `npm start` to launch this.
+
+##### To view the project
+[https://selvajayarose.github.io/UnicoConnect/](https://selvajayarose.github.io/UnicoConnect/)
+
